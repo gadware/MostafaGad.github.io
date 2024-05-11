@@ -1,0 +1,19 @@
+title: Mostafa Gad
+url: "https://ankitsultana.com"
+
+
+tracking_id: #
+
+footer: yes
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "Mostafa Gad - Resume.pdf"
+ - name: "Contact"
+   link: "contact"
