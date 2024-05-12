@@ -1,6 +1,4 @@
 title: Mostafa Gad
-url: "https://ankitsultana.com"
-
 
 tracking_id: #
 
@@ -12,7 +10,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: ""
  - name: "Resume"
    link: "Mostafa Gad - Resume.pdf"
  - name: "Contact"

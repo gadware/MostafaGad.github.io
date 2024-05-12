@@ -67,7 +67,9 @@ Achievements:
 • Hundreds of commercial projects (new telecom offers and bundles)  
 
 
-## References
+[//]: # (## References)
 
-* to be added
-* to be added
+[//]: # ()
+[//]: # (* to be added)
+
+[//]: # (* to be added)
